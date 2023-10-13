@@ -1,7 +1,7 @@
 import dimod
 from dwave.system import LeapHybridCQMSampler
 
-
+# code starts here
 foods = {
     'rice'      : {'Calories': 100, 'Protein': 3, 'Fat': 1, 'Carbs': 22, 'Fiber': 2, 'Taste': 7, 'Cost': 2.5, 'Units': 'continuous'},
     'tofu'      : {'Calories': 140, 'Protein': 17,'Fat': 9, 'Carbs': 3,  'Fiber': 2, 'Taste': 2, 'Cost': 4.0, 'Units': 'continuous'},
